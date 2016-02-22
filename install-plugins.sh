@@ -1,3 +1,3 @@
 # install custom plugins
-# usage: curl https://github.com/WardCunningham/custom-plugins/install-plugins.sh&raw=true | sh
+# usage: curl https://raw.githubusercontent.com/WardCunningham/custom-plugins/master/install-plugins.sh | sh
 npm i wiki-plugin-morseteacher --save
